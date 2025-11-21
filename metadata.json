@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartTask",
+  "description": "A gamified To-Do list application. Features task prioritization, XP rewards, daily journaling, and productivity tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
